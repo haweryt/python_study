@@ -1,2 +1,5 @@
 x = 42
-print(x)
+y = "string"
+z = True
+print(x, y, z)
+print (42 + 42.0)
