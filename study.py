@@ -3,3 +3,4 @@ for i in range(10):
 i = 100
 s = "stirng"
 array = [1, 2, 3]
+print (array)
