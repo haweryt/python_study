@@ -1,3 +1,3 @@
 name = "hello world"
-name = name.replace("hello", "Gdynia")
+name = name.replace("world", "Gdynia")
 print(name)
