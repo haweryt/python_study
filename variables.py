@@ -1,4 +1,5 @@
-a = 5
-b = 10
-a, b = b, a
-print (a, b)
+name = "dzmitry"
+name = name.capitalize()
+print(name)
+name = name.upper()
+print (name)
