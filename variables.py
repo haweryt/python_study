@@ -1,5 +1,4 @@
-x = input()
-x = float(x)
-print(type(x))
-x = str(x)
-print(type(x))
+a = 10
+b = 3
+print(a // b)
+print(a % b)
