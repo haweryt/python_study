@@ -1,5 +1,3 @@
-name = "dzmitry"
-name = name.capitalize()
+name = "  Dzmitry  "
+name = name.strip()
 print(name)
-name = name.upper()
-print (name)
