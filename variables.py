@@ -1,3 +1,2 @@
-name = "hello world"
-name = name.replace("world", "Gdynia")
-print(name)
+price = 9.99
+print(f"Price: {price} zł")
