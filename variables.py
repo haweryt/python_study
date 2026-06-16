@@ -1,4 +1,3 @@
-a = [1, 2, 3]
-b = [4, 5, 6]
-a.extend(b)
-print(a)
+numbers = [3, 1, 4, 1, 5, 9, 2, 6]
+numbers.reverse()
+print(numbers)
