@@ -1,2 +1,3 @@
-text = "Hello, World!"
-print(f"Length of string is {len(text)}")
+a = 5
+b = 3
+print(f"{a} + {b} = {a + b}, {a} - {b} = {a - b}, {a} * {b} = {a * b}, {a} / {b} = {a / b:.2f}")
