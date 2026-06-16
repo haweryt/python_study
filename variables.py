@@ -1,3 +1,2 @@
-name = "Dzmitry"
-age = 29
-print(f"My name is {name}, I am {age} years old")
+x = 9
+print(f"Square root of {x} is {x ** 0.5}")
